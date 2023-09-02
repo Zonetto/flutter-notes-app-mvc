@@ -1,4 +1,4 @@
-# notes_app
+# reminders_app
 
 A new Flutter project.
 
