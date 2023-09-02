@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/model/todo_mode.dart';
-import 'package:notes_app/services/database/todo_helper.dart';
+import 'package:reminders_app/model/todo_mode.dart';
+import 'package:reminders_app/services/database/todo_helper.dart';
 
 class TodoController extends ChangeNotifier {
   final TodoHelper helper = TodoHelper();

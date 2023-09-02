@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/components/custom_text_from_field.dart';
-import 'package:notes_app/components/time_and_date_paicker.dart';
-import 'package:notes_app/controller/todo_controller.dart';
-import 'package:notes_app/model/todo_mode.dart';
-import 'package:notes_app/view/tasks_screen.dart';
+import 'package:reminders_app/components/custom_text_from_field.dart';
+import 'package:reminders_app/components/time_and_date_paicker.dart';
+import 'package:reminders_app/controller/todo_controller.dart';
+import 'package:reminders_app/model/todo_mode.dart';
+import 'package:reminders_app/view/tasks_screen.dart';
 import 'archive_screen.dart';
 import 'done_screen.dart';
 

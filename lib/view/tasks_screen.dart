@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/components/notes_list_row.dart';
-import 'package:notes_app/controller/todo_controller.dart';
-import 'package:notes_app/model/todo_mode.dart';
+import 'package:reminders_app/components/notes_list_row.dart';
+import 'package:reminders_app/controller/todo_controller.dart';
+import 'package:reminders_app/model/todo_mode.dart';
 
 class TasksScreen extends StatefulWidget {
   final TodoController todoController;
