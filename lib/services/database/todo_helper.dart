@@ -1,5 +1,5 @@
-import 'package:notes_app/model/todo_mode.dart';
-import 'package:notes_app/services/database/sql_helper_prosessing.dart';
+import 'package:reminders_app/model/todo_mode.dart';
+import 'package:reminders_app/services/database/sql_helper_prosessing.dart';
 import 'package:sqflite/sqflite.dart' as sql;
 import 'db.dart';
 
