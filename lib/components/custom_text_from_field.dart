@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/constant/constant.dart';
+import 'package:reminders_app/constant/constant.dart';
 
 class CustomTextFromField extends StatelessWidget {
   final TextEditingController controller;

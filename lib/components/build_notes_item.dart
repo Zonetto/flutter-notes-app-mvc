@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/constant/constant.dart';
+import 'package:reminders_app/constant/constant.dart';
 
-import 'package:notes_app/model/todo_mode.dart';
-
+import 'package:reminders_app/model/todo_mode.dart';
 
 class BuildTaskItem extends StatelessWidget {
   final TodoModel model;

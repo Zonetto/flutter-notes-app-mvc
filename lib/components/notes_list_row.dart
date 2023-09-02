@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/controller/todo_controller.dart';
-import 'package:notes_app/model/todo_mode.dart';
+import 'package:reminders_app/controller/todo_controller.dart';
+import 'package:reminders_app/model/todo_mode.dart';
 import 'build_notes_item.dart';
 import 'my_divider.dart';
 
@@ -64,7 +64,7 @@ class NotesListRow extends StatelessWidget {
                       color: Colors.grey[500],
                     ),
                     Text(
-                      'No Tasks, Please Add Some Tasks',
+                      'There is no data',
                       style: TextStyle(
                         fontSize: 20.0,
                         fontWeight: FontWeight.bold,
