@@ -1,4 +1,4 @@
-import 'package:notes_app/services/database/db.dart';
+import 'package:reminders_app/services/database/db.dart';
 
 class TodoModel {
   int? todoId;
